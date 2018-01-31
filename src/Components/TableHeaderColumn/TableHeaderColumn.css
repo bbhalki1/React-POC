@@ -1,0 +1,10 @@
+.TableHeaderColumn{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #000000c7;
+    color: white;
+    border: 1px solid #ddd;
+    padding: 8px;
+    height: 8vh;
+}

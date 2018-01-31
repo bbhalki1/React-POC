@@ -1,0 +1,22 @@
+/* .TableRow:hover {
+    background-color: #ddd;
+} */
+
+.TableRow> td {
+     border: 1px solid reds;
+     padding: 8px;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+tr{
+        height: 4.5vh;
+}
